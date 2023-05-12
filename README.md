@@ -1,0 +1,1 @@
+# allure-jira-issue-generator
